@@ -9,6 +9,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\DELL\Desktop\BKIT_ARM4_Bai4_I2C_Realtimeclock\Bai4_I2C_Realtimeclock"/>
 			<item value="E:\Embedded_System\STM32_ARM"/>
 		</list>
 	</section>
